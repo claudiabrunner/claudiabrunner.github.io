@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.video-wrapper video {
+	width: 60%;
+	margin: auto;
+	padding-top: 30px;
+}
+
+.single-column-research {
+	margin: auto;
+	width:  100%;
+	text-align:center;
+	padding-top: 20px;
+	padding-bottom: 60px;
+}
