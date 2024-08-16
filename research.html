@@ -14,40 +14,44 @@
 
     <!-- NAVIGATION BAR -->
     <div class="nav-wrapper">
-      <div class="brand">
-        <a href="index.html"><h1>Claudia E. Brunner, PhD</h1></a>
-      </div>
-
-      <div class="nav-link-wrapper">
-        <a href="cv.pdf">CV</a>
-      </div>
-
-      <div class="nav-link-wrapper active-nav-link">
-        <a href="research.html">Presentations</a>
-      </div>
-
-      <div class="nav-link-wrapper">
-        <a href="publications.html">Publications</a>
-      </div>
-
-      <div class="nav-link-wrapper">
-        <a href="opportunities.html">Open positions</a>
-      </div>
-
-      <!--
-      <div class="nav-link-wrapper">
-        <a href="teaching.html">Teaching</a>
-      </div>
-
-      <div class="nav-link-wrapper">
-        <a href="service.html">Service</a>
-      </div>
-    -->
+    <div class="brand">
+      <a href="index.html"><h1>Turbulence and Wind Energy Group</h1></a>
     </div>
 
+    <div class="nav-link-wrapper active-nav-link">
+    <a href="research.html">Research</a>
+    </div>
 
-    <!--CONTENT-->
-    <div class="content-wrapper">
+    <div class="nav-link-wrapper">
+    <a href="people.html">People</a>
+    </div>
+
+    <div class="nav-link-wrapper">
+    <a href="publications.html">Publications</a>
+    </div>
+
+    <div class="nav-link-wrapper">
+    <a href="news.html">News</a>
+    </div>
+
+    <div class="nav-link-wrapper">
+    <a href="contact.html">Contact</a>
+    </div>
+  </div>
+
+  <!--CONTENT-->
+  <div class="single-column-research">
+    The fundamental challenge in the study of wind turbines lies in the large separation of scales. Modern wind turbines are among the largest machines ever built, spanning diameters of more than 200 m, and the largest coherent structures in the turbulent atmosphere are of the same order of magnitude. Meanwhile, the smallest scales of the flow, at which the turbulence is dissipated, are O(1mm). State-of-the-art numerical simulations are nowhere near capable of resolving the full range of scales encountered in wind farms. Atmospheric flows are heterogeneous in space and time, so that elucidating the underlying flow physics through field measurements alone is challenging. We therefore pursue a combination of field studies and laboratory experiments. Small-scale experiments can only fully replicate the flow physics if dynamic similarity with real-world conditions is achieved. This is generally not possible in conventional atmospheric-pressure wind tunnels. Instead, we conduct research in the Variable Density Turbulence Tunnel (VDTT) at the MPI-DS, a specialised wind tunnel that use compressed gas to create small-scale flows that accurately reproduce the flow physics of large atmospheric flows. Due to its active turbulence grid, the VDTT can achieve full dynamic similarity with real turbulent wind farm flows. Not only can the data from the VDTT serve as a benchmark for numerical or experimental studies of wind turbine flows. By varying the pressure we also gain an additional degree of freedom, which allows us to vary individual flow parameters while keeping all others constant. We use this to isolate and characterise specific phenomena within the complex flow field and thus elucidate the underlying flow physics.
+
+  <div class="content-wrapper" id="topic-container">
+  <!-- JavaScript code will render members here -->
+  <script src="researchscript.js"></script>
+  <script>
+  renderTopics();
+  </script>
+  </div>
+</div>
+<!--    <div class="content-wrapper">
       <div class="single-column-research">
         Talk presented at the 74th Annual Meeting of the American Physical Society - Division of Fluid Dynamics
         <div class="video-wrapper">
@@ -68,10 +72,11 @@
         </div>
       </div>
     </div>
+  -->
 
     <!--FOOTER-->
     <div class="footer">
-      &#169; Claudia Brunner 2023
+      &#169; Claudia Brunner 2024
     </div>
   </div>
 </body>

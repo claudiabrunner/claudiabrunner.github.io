@@ -81,27 +81,6 @@ h2 {
 	color: black !important;
 }
 
-.two-column-wrapper {
-	display: grid;
-	grid-template-columns: 0.62fr 0.38fr;
-	margin: 40px;
-	margin-top: 20px;
-}
-
-.left-column-wrapper {
-	margin-right:40px;
-	text-align: justify;
-}
-
-.education-wrapper {
-	display: grid;
-	grid-template-columns: 0.25fr 0.75fr;
-}
-
-.right-column-wrapper img {
-	width: 100%;
-}
-
 .single-column-wrapper {
 	margin: 40px;
 	margin-top: 20px;
@@ -109,7 +88,7 @@ h2 {
 
 .text-container {
   border: 3px solid black;
-  padding: 20px ;
+  padding: 30px;
 	text-align: justify;
 }
 
