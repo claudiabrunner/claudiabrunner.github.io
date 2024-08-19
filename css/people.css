@@ -99,6 +99,7 @@ h2 {
 }
 
 .member-image {
+ max-width: 400px;
  width: 25%;
  height: auto;
  margin: 10px;
