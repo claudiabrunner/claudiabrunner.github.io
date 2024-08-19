@@ -105,6 +105,7 @@ h2 {
 .single-column-wrapper {
 	margin: 40px;
 	margin-top: 20px;
+	text-align: justify;
 }
 
 .text-container {
