@@ -6,15 +6,23 @@ const members = {
  "title": "PI",
  "bio": "Dr. Claudia Brunner is head of the Max Planck Research Group “Turbulence and Wind Energy“ at the Max Planck Institute for Dynamics and Self-Organization. Her research focuses on experimental studies of large-scale fluid dynamics involving turbulence and unsteady effects. She is particularly interested in flows that are relevant for the fields of energy and the environment, with a particular focus on wind energy, and she supplements her engineering research with studies of relevant policy questions. Before becoming an independent group in March 2024, Dr. Brunner's group was a Minerva Fast Track Group within the department of Prof. Bodenschatz. Prior to that, Dr. Brunner was a postdoc with Prof. Bodenschatz. She received her PhD in May 2022 from the Department of Mechanical and Aerospace Engineering at Princeton University, where she was advised by Prof. Marcus Hultmark. Dr. Brunner received a National Defense Science and Engineering Graduate Fellowship from the Department of Defense, and a Science, Technology and Environmental Policy Fellowship from the High Meadows Environmental Institute and the School of Public and International Affairs at Princeton University. She holds an M.A. in Mechanical and Aerospace Engineering from Princeton University and a B.S. in Mechanical Engineering and a B.A. in International Relations from Stanford University.",
  "image": "images/BrunnerClaudia_headshot.jpg",
- "cv": "cv.pdf"
+ "cv": "CVs/CV_CBrunner.pdf"
  },
 
  "Yuna Hattori": {
  "name": "Dr. Yuna Hattori",
  "title": "postdoc",
  "bio": "Dr. Yuna Hattori’s research in the Turbulence and Wind Energy Group focuses on experimental studies of thermal effects on the flow behaviour around wind turbines. She is particularly interested in applying knowledge of fundamental fluid mechanics to tackle climate issues. Dr. Hattori received her PhD in fluid mechanics from the Okinawa Institute of Science and Technology in Japan in March 2023, where she was supervised by Prof. Pinaki Chakraborty. Her PhD research was concerned with self-similarity in the boundary-layer flow over a dynamic boundary. She used a soap-film experimental setup, OpenFOAM simulations, and theoretical analysis. She holds a B.S. in physics from Ochanomizu University in Japan, where she conducted research in theoretical particle physics.",
- "image": "images/groupmembers/yunahattori.jpg"
+ "image": "images/groupmembers/yunahattori.jpg",
  },
+
+  "Hyunseok Kim": {
+  "name": "Dr. Hyunseok Kim",
+  "title": "postdoc",
+  "bio": "Dr. Hyunseok Kim is a Sejong Fellow, awarded by the National Research Foundation of South Korea for his postdoctoral research. He joined the Turbulence and Wind Energy Group in September 2024 and studies turbine blade erosion due to particle-laden atmospheric turbulence in the Variable Density Turbulence Tunnel. In his research, Dr. Kim explores ways to control fluid-related phenomena through fundamental studies of the aerodynamics of wind energy, multiphase environmental fluid mechanics, and heat transfer. He aims to address sustainability challenges through technological innovation. Prior to joining the MPI-DS, Dr. Kim worked as a staff engineer in the Environment, Health & Safety Research Center at Samsung Electronics, where he contributed to the development of next-generation greenhouse gas abatement facilities. He holds a Ph.D. in mechanical engineering and a bachelor’s degree in nuclear engineering from Seoul National University.",
+  "image": "images/groupmembers/hyunseokkim.jpg",
+  "cv": "CVs/CV_HKim.pdf"
+},
 
  "Lorenn Le Turnier": {
  "name": "Lorenn Le Turnier",
