@@ -37,6 +37,12 @@ const members = {
   "bio": "Mano Grunwald is a master’s student in the Turbulence and Wind Energy Group, where he also completed his bachelor thesis. For his research, he is conducting hot-wire measurements in the Variable Density Turbulence Tunnel to study turbulence in the wake of a wind turbine. He is enrolled in the physics program at the Georg-August-University Göttingen, from which he also received his B.S. degree in 2023. He also holds a B.S. in business and engineering from the Technical University of Clausthal.",
    },
 
+   "Son Bien": {
+   "name": "Son Bien",
+   "title": "master",
+   "bio": "",
+    },
+
    "Fabian Krippenstapel": {
    "name": "Fabian Krippenstapel",
    "title": "bachelor",
