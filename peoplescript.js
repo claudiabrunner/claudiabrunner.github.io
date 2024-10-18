@@ -20,7 +20,7 @@ const members = {
   "name": "Dr. Hyunseok Kim",
   "title": "postdoc",
   "bio": "Dr. Hyunseok Kim is a Sejong Fellow, awarded by the National Research Foundation of South Korea for his postdoctoral research. He joined the Turbulence and Wind Energy Group in September 2024 and studies turbine blade erosion due to particle-laden atmospheric turbulence in the Variable Density Turbulence Tunnel. In his research, Dr. Kim explores ways to control fluid-related phenomena through fundamental studies of the aerodynamics of wind energy, multiphase environmental fluid mechanics, and heat transfer. He aims to address sustainability challenges through technological innovation. Prior to joining the MPI-DS, Dr. Kim worked as a staff engineer in the Environment, Health & Safety Research Center at Samsung Electronics, where he contributed to the development of next-generation greenhouse gas abatement facilities. He holds a Ph.D. in mechanical engineering and a bachelor’s degree in nuclear engineering from Seoul National University.",
-  "image": "images/groupmembers/hyunseokkim.jpg",
+  
   "cv": "CVs/CV_HKim.pdf"
 },
 
